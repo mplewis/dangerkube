@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "dangerkube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "All rights reserved",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
