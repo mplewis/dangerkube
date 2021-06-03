@@ -1,5 +1,6 @@
 module.exports = {
   title: "Danger Kube",
+  base: "/dangerkube/",
   themeConfig: {
     displayAllHeaders: true,
     navbar: [

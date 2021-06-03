@@ -1,16 +1,3 @@
----
-head:
-  - - meta
-    - name: foo
-      content: bar
-  - - link
-    - rel: canonical
-      href: foobar
-  - - script
-    - {}
-    - console.log('hello from frontmatter');
----
-
 # Welcome
 
 Welcome to Learn Enough Kubernetes to Be Dangerous, also known as Danger Kube!
