@@ -1,14 +1,19 @@
 module.exports = {
   title: "Danger Kube",
-
   themeConfig: {
     displayAllHeaders: true,
-    sidebar: [
-      "welcome",
-      "getting-started",
-      "running-code",
-      "serving-requests",
-      "going-online",
+    navbar: [
+      {
+        text: "Sections",
+        children: [
+          "/welcome",
+          "/getting-started",
+          "/running-code",
+          "/going-online",
+          "/serving-requests",
+        ],
+      },
     ],
+    sidebar: 'auto',
   },
 };
