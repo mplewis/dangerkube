@@ -1,0 +1,1 @@
+const e={key:"v-05dbf54e",path:"/guide/4-going-online.html",title:"Going Online",lang:"en-US",frontmatter:{prev:"/guide/3-running-code.html",next:"/guide/5-serving-requests.html"},excerpt:"",headers:[],filePathRelative:"guide/4-going-online.md",git:{updatedTime:1623195512e3,contributors:[]}};export{e as data};

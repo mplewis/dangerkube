@@ -1,0 +1,1 @@
+const e={key:"v-2e3954e0",path:"/guide/5-serving-requests.html",title:"Serving Requests",lang:"en-US",frontmatter:{prev:"/guide/4-going-online.html"},excerpt:"",headers:[],filePathRelative:"guide/5-serving-requests.md",git:{updatedTime:1623195512e3,contributors:[]}};export{e as data};
