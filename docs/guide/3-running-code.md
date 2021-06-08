@@ -1,3 +1,8 @@
+---
+prev: /guide/2-getting-started.html
+next: /guide/4-going-online.html
+---
+
 # Running Code
 
 In this section, we will:

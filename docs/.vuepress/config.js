@@ -4,17 +4,12 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true,
     navbar: [
-      {
-        text: "Sections",
-        children: [
-          "/welcome",
-          "/getting-started",
-          "/running-code",
-          "/going-online",
-          "/serving-requests",
-        ],
-      },
+      "/guide/1-welcome.html",
+      "/guide/2-getting-started.html",
+      "/guide/3-running-code.html",
+      "/guide/4-going-online.html",
+      "/guide/5-serving-requests.html",
     ],
-    sidebar: 'auto',
+    sidebar: "auto",
   },
 };

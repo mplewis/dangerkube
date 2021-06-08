@@ -1,3 +1,7 @@
+---
+next: /guide/2-getting-started.html
+---
+
 # Welcome
 
 Welcome to Learn Enough Kubernetes to Be Dangerous, also known as Danger Kube!

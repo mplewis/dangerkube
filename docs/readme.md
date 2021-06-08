@@ -4,7 +4,7 @@ heroText: Hero Title
 tagline: Hero subtitle
 actions:
   - text: Get Started →
-    link: welcome
+    link: /guide/1-welcome.html
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
