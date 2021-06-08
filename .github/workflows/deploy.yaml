@@ -2,6 +2,7 @@ name: Build and Deploy
 on: [push]
 jobs:
   build-and-deploy:
+    environment: Deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
